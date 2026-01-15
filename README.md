@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'am currently learing web devlopment.<br>specialy backend using django and flask.<br>python web developer.<br>
+web devlopment.<br>backend-django and flask.<br>python web developer.<br>
 
 
 ## 🌐 Socials:
