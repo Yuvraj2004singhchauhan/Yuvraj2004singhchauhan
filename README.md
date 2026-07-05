@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 web devlopment.<br>backend-django and RESTFUL API.<br>python web developer.<br>
 
 
