@@ -1,33 +1,192 @@
-# About Me:
-web devlopment.<br>backend-django and RESTFUL API.<br>python web developer.<br>
+Absolutely. Since this is your **GitHub profile README (`Yuvraj2004singhchauhan/Yuvraj2004singhchauhan`)**, I’d make it more professional and developer-focused rather than using the generic GPRM layout.
 
+Here’s a complete version you can paste directly into `README.md`:
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yuvraj_chauhannnn/?__pwa=1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuvraj-singh-chauhan-499a27295/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvrajsinghchauhan2004@gmail.com) 
+# 👋 Hi, I'm Yuvraj Singh Chauhan
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yuvraj2004singhchauhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yuvraj2004singhchauhan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj2004singhchauhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 Python Backend Developer | Django | REST APIs | Full-Stack Web Development
+
+I'm a **B.Tech CSE student and Python web developer** passionate about building real-world applications, designing backend systems, and creating clean, scalable RESTful APIs.
+
+I enjoy turning ideas into working products and continuously learning new technologies while building them.
+**Build → Learn → Improve → Repeat. 🔥**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yuvraj2004singhchauhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+## 🧑‍💻 About Me
 
-<!--
-**Yuvraj2004singhchauhan/Yuvraj2004singhchauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 B.Tech in Computer Science & Engineering
+* 🐍 Focused on **Python Backend Development**
+* ⚡ Experienced with **Django & Django REST Framework**
+* 🔌 Interested in designing and building **RESTful APIs**
+* 🗄️ Comfortable working with **PostgreSQL, MySQL & MongoDB**
+* 🌐 Full-stack experience with **React, JavaScript, HTML & CSS**
+* 🐳 Currently improving my skills in **Docker & deployment**
+* ☁️ Familiar with **Cloudinary, Railway, Vercel, Neon & Render**
+* 💡 Strong interest in backend architecture and real-world applications
+* 🧠 Practicing **DSA and problem solving in C++**
+* 🚀 Looking for opportunities to work with teams building products used by real users
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### ⚙️ Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+### ☁️ DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔗 QR Link Shortener
+
+A full-stack URL shortening platform with QR-code generation, authentication and click analytics.
+
+**Tech:** Django · Django REST Framework · PostgreSQL · React · Tailwind · JWT · Cloudinary
+
+**Highlights:**
+
+* 🔐 JWT-based user authentication
+* 🔗 Custom short URL generation
+* 📱 Automatic QR-code generation
+* 📊 Click analytics with browser and device statistics
+* 🔎 Search and pagination for user links
+* ☁️ Cloudinary image storage
+* 🚀 Backend deployed on Railway
+* ⚡ Frontend deployed on Vercel
+* 🗄️ PostgreSQL hosted on Neon
+
+🔗 **[View Project](https://github.com/Yuvraj2004singhchauhan/Qr_link_shortener)**
+
+---
+
+### 🧠 Gyanito — Quiz Platform
+
+A quiz-taking web application designed to provide an interactive learning experience.
+
+**Tech:** React · Vite · Tailwind CSS · MongoDB
+
+**Features:**
+
+* 📝 Interactive quizzes
+* 🔐 User authentication
+* 🏆 Leaderboard functionality
+* 📚 Categorized quizzes
+* ⚡ Responsive React interface
+
+---
+
+### 📝 BlogSpace
+
+A Django-based blogging platform focused on creating and managing blog content.
+
+**Tech:** Django · PostgreSQL · Cloudinary · Bootstrap
+
+**Features:**
+
+* ✍️ Create and manage blog posts
+* 🔐 User authentication
+* 🖼️ Cloudinary image storage
+* 🗄️ PostgreSQL database
+* 🚀 Deployed web application
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj2004singhchauhan&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj2004singhchauhan&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yuvraj2004singhchauhan&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 What I'm Currently Learning
+
+```text
+🐳 Docker & Containerization
+⚙️ Backend Architecture
+🔌 Advanced REST API Design
+☁️ Cloud Deployment
+🗄️ Database Optimization
+🧠 Data Structures & Algorithms
+🏗️ Scalable Web Applications
+```
+
+---
+
+## 🎯 My Goal
+
+> **I want to work with teams that build products used by real users,**
+> **while continuously learning new technologies and improving as a developer.**
+
+I'm especially interested in opportunities where I can contribute to:
+
+* Backend development
+* REST API development
+* Full-stack web applications
+* Database design
+* Cloud deployment
+* Product development
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yuvraj-singh-chauhan-499a27295/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yuvrajsinghchauhan2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/yuvraj_chauhannnn/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Code. Build. Learn. Repeat. 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yuvraj2004singhchauhan&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
