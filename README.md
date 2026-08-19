@@ -1,15 +1,11 @@
-Absolutely. Since this is your **GitHub profile README (`Yuvraj2004singhchauhan/Yuvraj2004singhchauhan`)**, I’d make it more professional and developer-focused rather than using the generic GPRM layout.
+#  Hi, I'm Yuvraj Singh Chauhan
 
-Here’s a complete version you can paste directly into `README.md`:
-
-# 👋 Hi, I'm Yuvraj Singh Chauhan
-
-### 🚀 Python Backend Developer | Django | REST APIs | Full-Stack Web Development
+###  Python Backend Developer | Django | REST APIs | Full-Stack Web Development
 
 I'm a **B.Tech CSE student and Python web developer** passionate about building real-world applications, designing backend systems, and creating clean, scalable RESTful APIs.
 
 I enjoy turning ideas into working products and continuously learning new technologies while building them.
-**Build → Learn → Improve → Repeat. 🔥**
+**Build → Learn → Improve → Repeat. **
 
 ---
 
@@ -90,21 +86,7 @@ A full-stack URL shortening platform with QR-code generation, authentication and
 
 🔗 **[View Project](https://github.com/Yuvraj2004singhchauhan/Qr_link_shortener)**
 
----
 
-### 🧠 Gyanito — Quiz Platform
-
-A quiz-taking web application designed to provide an interactive learning experience.
-
-**Tech:** React · Vite · Tailwind CSS · MongoDB
-
-**Features:**
-
-* 📝 Interactive quizzes
-* 🔐 User authentication
-* 🏆 Leaderboard functionality
-* 📚 Categorized quizzes
-* ⚡ Responsive React interface
 
 ---
 
@@ -122,20 +104,7 @@ A Django-based blogging platform focused on creating and managing blog content.
 * 🗄️ PostgreSQL database
 * 🚀 Deployed web application
 
----
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj2004singhchauhan&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj2004singhchauhan&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yuvraj2004singhchauhan&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🧩 What I'm Currently Learning
 
@@ -151,7 +120,7 @@ A Django-based blogging platform focused on creating and managing blog content.
 
 ---
 
-## 🎯 My Goal
+##  My Goal
 
 > **I want to work with teams that build products used by real users,**
 > **while continuously learning new technologies and improving as a developer.**
